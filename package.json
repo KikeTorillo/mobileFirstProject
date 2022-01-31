@@ -1,0 +1,11 @@
+{
+  "name": "mobilefirstproyect",
+  "version": "1.0.0",
+  "description": "Proyecto front de mobile first",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kike",
+  "license": "ISC"
+}
